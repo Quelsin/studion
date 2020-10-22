@@ -1,0 +1,23 @@
+{
+  "name": "studion",
+  "version": "0.0.1",
+  "description": "\u0016\u0016Homepage for Studion Event provider and services.",
+  "main": "index.js",
+  "scripts": {
+    "test": "\u001b[A\u001b[B\u001b[F\u001b[B\u001b[B\u001b\u001b[A\u001b[A\u001b[A\u001b[A\u001b[B\u001b[B\u001b[B\u001b[B\u001b[B\u001b[B\u001b[B\u001b[B\u001b[\u001b[A\u001b[A\u001b[A\u001b[A\u001b[A\u001b[A\u001b[A\u001b[A\u001b[F\u001b[B\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[Csrc/index.html"
+  },
+  "repository": {
+    "type": "git",
+    "url": "\u001b[B\u001b["
+  },
+  "keywords": [
+    "HTML",
+    "CSS",
+    "Javascript"
+  ],
+  "author": "Quelsin Hoffmann",
+  "license": "ISC",
+  "devDependencies": {
+    "live-server": "^1.2.1"
+  }
+}
